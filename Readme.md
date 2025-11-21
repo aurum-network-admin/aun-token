@@ -11,3 +11,17 @@ The [**Aurum Network Token ($AUN)**](https://aurumnetwork.io/) is the core utili
 ## Ownership & Authority Status
 
 <table><thead><tr><th width="236">Authority</th><th align="center">Status</th></tr></thead><tbody><tr><td>Mint Authority</td><td align="center">Renounced</td></tr><tr><td>Freeze Authority</td><td align="center">Renounced</td></tr><tr><td>Metadata Authority</td><td align="center">Renounced</td></tr><tr><td>Upgradeability Status</td><td align="center">Token-2022 is not upgradeable</td></tr></tbody></table>
+
+## Links
+
+[**Solscan / Explorer**](https://solscan.io/token/aunYcdzA393gvb5aofUd5t68Y4jNr8Z9TADa4VcAkTT)
+
+[**Whitepaper**](https://aurum-network.gitbook.io/aurum-network)
+
+### Website and Socials
+
+[**Website**](https://aurumnetwork.io)
+
+[**Twitter**](https://x.com/AurumNetworkHQ)
+
+[**Telegram**](https://t.me/AurumNetworkHQ)
